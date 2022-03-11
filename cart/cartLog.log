@@ -1,0 +1,20 @@
+2022-03-11 15:19:29.970 [INFO] [restartedMain] [c.b.c.CartApplication:55]  Starting CartApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 7164 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\cart\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\cart)
+2022-03-11 15:19:29.975 [DEBUG] [restartedMain] [c.b.c.CartApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:19:29.975 [INFO] [restartedMain] [c.b.c.CartApplication:663]  The following profiles are active: PROD
+2022-03-11 15:19:33.741 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:19:33.966 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:19:34.668 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:19:35.112 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:19:35.885 [INFO] [restartedMain] [c.b.c.CartApplication:61]  Started CartApplication in 6.685 seconds (JVM running for 7.59)
+2022-03-11 15:19:35.891 [INFO] [restartedMain] [c.b.c.CartApplication:18]  Cart from book store app started
+2022-03-11 15:20:49.512 [INFO] [http-nio-9002-exec-5] [c.b.c.a.AOPService:20]  Initiating API : getAllCarts 
+2022-03-11 15:20:49.747 [INFO] [http-nio-9002-exec-5] [c.b.c.a.AOPService:32]  Order returned to controller : getAllCarts 
+2022-03-11 15:20:49.748 [INFO] [http-nio-9002-exec-5] [c.b.c.a.AOPService:38]  After : []
+2022-03-11 15:20:49.749 [INFO] [http-nio-9002-exec-5] [c.b.c.a.AOPService:26]  API successfully Executed : getAllCarts 
+2022-03-11 15:56:43.356 [INFO] [main] [c.b.c.CartApplicationTests:55]  Starting CartApplicationTests using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 20392 (started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\cart)
+2022-03-11 15:56:43.358 [DEBUG] [main] [c.b.c.CartApplicationTests:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:56:43.358 [INFO] [main] [c.b.c.CartApplicationTests:663]  The following profiles are active: PROD
+2022-03-11 15:56:48.736 [WARN] [main] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:56:49.648 [WARN] [main] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:56:51.524 [WARN] [main] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:56:56.264 [INFO] [main] [c.b.c.CartApplicationTests:61]  Started CartApplicationTests in 13.705 seconds (JVM running for 14.87)

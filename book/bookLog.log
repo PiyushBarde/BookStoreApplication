@@ -1,0 +1,126 @@
+2022-03-11 15:12:44.036 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 8856 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:12:44.043 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:12:44.044 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:12:47.726 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:12:47.980 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:12:48.711 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:12:49.149 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:12:49.949 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 6.682 seconds (JVM running for 7.668)
+2022-03-11 15:12:49.954 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:14:12.388 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 8856 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:14:12.389 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:14:12.389 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:14:12.985 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:14:13.060 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:14:13.528 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:14:13.902 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:14:14.318 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 2.336 seconds (JVM running for 92.038)
+2022-03-11 15:14:14.321 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:14:59.534 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 8856 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:14:59.535 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:14:59.535 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:15:00.100 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:15:00.173 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:15:00.656 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:15:01.038 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:15:01.459 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 2.312 seconds (JVM running for 139.178)
+2022-03-11 15:15:01.460 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:15:07.888 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 8856 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:15:07.888 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:15:07.888 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:15:08.472 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:15:08.548 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:15:09.028 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:15:09.402 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:15:09.843 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 2.362 seconds (JVM running for 147.563)
+2022-03-11 15:15:09.846 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:15:16.236 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 8856 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:15:16.236 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:15:16.236 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:15:16.859 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:15:16.993 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:15:17.496 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:15:17.907 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:15:18.309 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 2.457 seconds (JVM running for 156.028)
+2022-03-11 15:15:18.312 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:16:32.491 [INFO] [http-nio-9001-exec-9] [c.b.b.a.AOPService:20]  Initiating API : retrieveBooks 
+2022-03-11 15:16:32.816 [INFO] [http-nio-9001-exec-9] [c.b.b.a.AOPService:32]  Book returned to controller : retrieveBooks 
+2022-03-11 15:16:32.817 [INFO] [http-nio-9001-exec-9] [c.b.b.a.AOPService:38]  After : []
+2022-03-11 15:16:32.818 [INFO] [http-nio-9001-exec-9] [c.b.b.a.AOPService:26]  API successfully Executed : retrieveBooks 
+2022-03-11 15:16:56.082 [INFO] [http-nio-9001-exec-10] [c.b.b.a.AOPService:20]  Initiating API : getbookByID 
+2022-03-11 15:16:56.134 [INFO] [http-nio-9001-exec-10] [c.b.b.a.AOPService:32]  Book returned to controller : getbookByID 
+2022-03-11 15:16:56.134 [INFO] [http-nio-9001-exec-10] [c.b.b.a.AOPService:38]  After : [2]
+2022-03-11 15:16:56.134 [INFO] [http-nio-9001-exec-10] [c.b.b.a.AOPService:26]  API successfully Executed : getbookByID 
+2022-03-11 15:26:24.782 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 20844 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:26:24.794 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:26:24.794 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:26:28.881 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:26:29.128 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:26:29.813 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:26:30.250 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:26:35.187 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 11.155 seconds (JVM running for 12.066)
+2022-03-11 15:26:35.196 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:27:53.007 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:20]  Initiating API : getbookByIdAPI 
+2022-03-11 15:27:53.080 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:32]  Book returned to controller : getbookByIdAPI 
+2022-03-11 15:27:53.081 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:38]  After : [2]
+2022-03-11 15:27:53.081 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:26]  API successfully Executed : getbookByIdAPI 
+2022-03-11 15:31:22.792 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 20844 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:31:22.792 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:31:22.793 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:31:23.383 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:31:23.466 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:31:23.929 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:31:24.312 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:31:28.819 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 6.404 seconds (JVM running for 305.698)
+2022-03-11 15:31:28.822 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:34:05.121 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 4268 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:34:05.122 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:34:05.123 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:34:08.810 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:34:09.118 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:34:09.869 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:34:10.375 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:34:14.847 [WARN] [restartedMain] [o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9001 is already in use
+2022-03-11 15:34:22.023 [ERROR] [restartedMain] [o.s.b.d.LoggingFailureAnalysisReporter:40]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9001 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9001 or configure this application to listen on another port.
+
+2022-03-11 15:35:37.870 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:20]  Initiating API : getbookByIdAPI 
+2022-03-11 15:35:37.885 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:32]  Book returned to controller : getbookByIdAPI 
+2022-03-11 15:35:37.886 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:38]  After : [2]
+2022-03-11 15:35:37.886 [INFO] [http-nio-9001-exec-1] [c.b.b.a.AOPService:26]  API successfully Executed : getbookByIdAPI 
+2022-03-11 15:51:00.539 [INFO] [main] [c.b.b.BookApplicationTests:55]  Starting BookApplicationTests using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 16116 (started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:51:00.541 [DEBUG] [main] [c.b.b.BookApplicationTests:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:51:00.541 [INFO] [main] [c.b.b.BookApplicationTests:663]  The following profiles are active: PROD
+2022-03-11 15:51:03.382 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 20844 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:51:03.383 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:51:03.383 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:51:04.530 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:51:04.637 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:51:05.370 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:51:05.886 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:51:06.381 [WARN] [main] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:51:07.079 [WARN] [main] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:51:08.671 [WARN] [main] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:51:10.391 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 7.64 seconds (JVM running for 1487.271)
+2022-03-11 15:51:10.394 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
+2022-03-11 15:51:13.285 [INFO] [main] [c.b.b.BookApplicationTests:61]  Started BookApplicationTests in 13.728 seconds (JVM running for 14.95)
+2022-03-11 15:51:18.246 [INFO] [restartedMain] [c.b.b.BookApplication:55]  Starting BookApplication using Java 11.0.14 on LAPTOP-GLO85PV8 with PID 20844 (C:\Users\Piyush\Desktop\Enterprise Different Workshop\book\target\classes started by Piyush in C:\Users\Piyush\Desktop\Enterprise Different Workshop\book)
+2022-03-11 15:51:18.246 [DEBUG] [restartedMain] [c.b.b.BookApplication:56]  Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-03-11 15:51:18.246 [INFO] [restartedMain] [c.b.b.BookApplication:663]  The following profiles are active: PROD
+2022-03-11 15:51:18.836 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219]  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 15:51:18.919 [WARN] [restartedMain] [o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:105]  Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-11 15:51:19.392 [WARN] [restartedMain] [o.s.b.d.a.OptionalLiveReloadServer:61]  Unable to start LiveReload server
+2022-03-11 15:51:19.763 [WARN] [restartedMain] [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger:82]  Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-03-11 15:51:24.231 [INFO] [restartedMain] [c.b.b.BookApplication:61]  Started BookApplication in 6.375 seconds (JVM running for 1501.11)
+2022-03-11 15:51:24.233 [INFO] [restartedMain] [c.b.b.BookApplication:16]  Book from book store app started
