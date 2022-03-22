@@ -29,16 +29,6 @@ public class CartController {
 	@Autowired
 	ICartService service;
 	
-//	@GetMapping("/getuser/{id}")
-//	public String callUserAndRetrieve(@PathVariable Integer id){
-//		return service.callUserAndRetrieve(id);
-//	}
-//	
-//	@GetMapping("/getuserobject/{id}")
-//	public String callUserAndRetrieveObject(@PathVariable Integer id){
-//		return service.callUserAndRetrieveObject(id);
-//	}
-	
 	//to insert book in the cart
 	@PostMapping("/insert")
 	public ResponseEntity<ResponseDTO> insertBook(@Valid @RequestBody CartDTO dto){
